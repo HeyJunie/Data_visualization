@@ -11,4 +11,4 @@
 ![Seoul_gas_station](https://user-images.githubusercontent.com/77037338/169935442-6e6141d7-9828-4e78-a8b7-895a77c14027.png)
 
 ---
-[대시보드 방문하기]([https://public.tableau.com/views/HowmanyEdiyasaretherenearStarbuckscafesinSeoul/1?:language=ko-KR&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/ComparisonofgaspricesinSeoul/1?:language=ko-KR&:display_count=n&:origin=viz_share_link))
+[대시보드 방문하기](https://public.tableau.com/views/ComparisonofgaspricesinSeoul/1?:language=ko-KR&:display_count=n&:origin=viz_share_link)
