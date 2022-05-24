@@ -5,4 +5,7 @@
 
 # Project names
 ### 1. How many Ediyas are there near Starbucks cafes in Seoul?
+![ediya_starbucks](https://user-images.githubusercontent.com/77037338/169936538-b72581cc-368f-473d-8dff-fd309b16ef3b.png)
+
 ### 2. Comparison of gas prices in Seoul
+![Seoul_gas_station](https://user-images.githubusercontent.com/77037338/169936556-3f883529-ef8d-4ed6-8798-3f2989b1f4c3.png)
