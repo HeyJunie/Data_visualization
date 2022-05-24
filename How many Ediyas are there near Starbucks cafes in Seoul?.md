@@ -1,4 +1,5 @@
 # Data_visualization
+--- 
 
 ## 스타벅스 근처에는 얼마나 많은 이디야가 존재할까(서울 기준)? (How many Ediyas are there near Starbucks cafes in Seoul?)
 - 전체 이디야 수와 스타벅스 반경 n M를 기준으로 얼마나 많은 이디야가 존재하는 지 확인한다.
@@ -6,4 +7,8 @@
 
 ---
 대시보드 미리보기
-![Ediya_Starbucks_relation](/사진/ediya_starbucks.png)
+![ediya_starbucks](https://user-images.githubusercontent.com/77037338/169933763-7030054a-9524-45d3-a558-7f63099dd34f.png)
+
+
+---
+[대시보드 방문하기](https://public.tableau.com/views/HowmanyEdiyasaretherenearStarbuckscafesinSeoul/1?:language=ko-KR&:display_count=n&:origin=viz_share_link)
