@@ -1,5 +1,4 @@
 # Data_visualization
---- 
 
 ## 스타벅스 근처에는 얼마나 많은 이디야가 존재할까(서울 기준)? (How many Ediyas are there near Starbucks cafes in Seoul?)
 - 전체 이디야 수와 스타벅스 반경 n M를 기준으로 얼마나 많은 이디야가 존재하는 지 확인한다.
